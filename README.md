@@ -1,8 +1,9 @@
-# Computational Drug discovery for Alzheimer's Disease
-Identification of human drug targets for Alzheimer's disease.
+# Computational Drug discovery for Alzheimer's Disease | DATA SCIENCE PROJECT
+This project aims to harness the power of machine learning to streamline the process of drug discovery.
+Identified human drug targets for Alzheimer's disease as 'Acetylecholinestarase'.
 Calculated Lipinski descriptors and POPCAM fingerprints to reveal relationships between biological activities and properties of chemical compounds.
 Trained model based on chEMBL dataset with a r2 score of 0.86.
-Deployed the model as Web App using Streamlit.
+
 
 # DEPLOYMENT
 We deployed the machine learning model as a web application using Streamlit framework
