@@ -7,6 +7,7 @@ Trained model based on chEMBL dataset and using simple regression model based on
 
 # DEPLOYMENT
 We deployed the machine learning model as a web application using Streamlit framework
+
 ![ss1](https://github.com/user-attachments/assets/fc63b6c8-ef3e-4051-bdf7-aff425a69a07)
 
 # INPUT
